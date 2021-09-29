@@ -1,0 +1,23 @@
+.about_description {
+  width: 40%;
+  margin: 0 auto;
+  text-align: start;
+  padding: 1.5%;
+}
+
+.about_role {
+  font-size: 35px;
+}
+
+.about {
+  flex-direction: column;
+  margin-top: 3em;
+}
+
+.about_container h1 {
+  font-size: 60px;
+}
+
+.about_name {
+  color: lightseagreen;
+}

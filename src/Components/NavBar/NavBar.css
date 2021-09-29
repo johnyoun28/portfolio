@@ -1,0 +1,14 @@
+.nav_list {
+  display: flex;
+  margin-right: 20%;
+  justify-content: flex-end;
+}
+
+.nav_list_item {
+  margin-left: 1.5em;
+}
+
+.nav_list_name {
+  display: flex;
+  justify-content: flex-start;
+}
