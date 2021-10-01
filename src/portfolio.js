@@ -5,10 +5,11 @@ const header = {
 const about = {
     name: "John Youn",
     role: "Software Engineer",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    description: "Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.",
     socials: {
         resume: "https://google.com",
         github: 'https://github.com/johnyoun28',  
+        linkedin: "https://www.linkedin.com/in/john-youn/"
     }
 }
 
@@ -21,14 +22,14 @@ const projects = [
         live: "github.com/johnyoun28"
     },
     {
-        name: "p1",
+        name: "p2",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         stack: ["HTML", "CSS", "React", "Redux"],
         github: "github.com/johnyoun28",
         live: "github.com/johnyoun28"
     },
     {
-        name: "p1",
+        name: "p3",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         stack: ["HTML", "CSS", "React", "Redux"],
         github: "github.com/johnyoun28",

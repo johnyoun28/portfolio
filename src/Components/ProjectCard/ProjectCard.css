@@ -1,0 +1,12 @@
+.project_stack {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.project_stack_item {
+  margin: 0.5em;
+  font-weight: 500;
+  font-size: 0.8rem;
+  list-style-type: none;
+}

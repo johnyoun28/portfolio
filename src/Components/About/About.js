@@ -1,6 +1,8 @@
 import { about } from '../../portfolio'
 import './About.css'
-// import GitHubIcon from '@mui/icons-material/GitHub';
+import GitHubIcon from '@material-ui/icons/GitHub'
+
+import LinkedInIcon from '@material-ui/icons/LinkedIn'
 
 const About = () => {
     return (
@@ -16,7 +18,19 @@ const About = () => {
             </p>
 
             <div className="about_contact">
-                {about.socials.github}
+                <a href={about.socials.resume} text-decoration="none">
+                    <span className='btn btn--outline' type="button">Resume</span>
+                </a>
+
+                <a href={about.socials.github} target="_blank" rel="noreferrer"
+                aria-label="github">
+                <GitHubIcon />
+                </a>
+
+                <a href={about.socials.linkedin} target="_blank" rel="noreferrer"
+                aria-label="github">
+                <LinkedInIcon />
+                </a>
 
             </div>
 

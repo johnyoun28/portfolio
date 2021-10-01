@@ -9,9 +9,15 @@
   font-size: 35px;
 }
 
-.about {
+/* .about {
   flex-direction: column;
   margin-top: 3em;
+} */
+
+.about_container {
+  margin-top: 3em;
+  display: flex;
+  flex-direction: column;
 }
 
 .about_container h1 {
@@ -20,4 +26,22 @@
 
 .about_name {
   color: lightseagreen;
+}
+
+.about_contact a {
+  text-decoration: none;
+  color: black;
+}
+
+.btn {
+  border: 1px solid grey;
+  padding: 10%;
+}
+
+.about_contact {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 auto;
+  width: 25%;
+  margin-top: 1%;
 }
