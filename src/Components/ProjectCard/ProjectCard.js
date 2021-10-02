@@ -1,6 +1,8 @@
 import React from 'react'
 import './ProjectCard.css'
 import uuid from 'react-uuid'
+import GitHubIcon from '@material-ui/icons/GitHub'
+import LaunchIcon from '@material-ui/icons/Launch'
 
 const ProjectCard = ({project}) => {
     return (
@@ -13,9 +15,22 @@ const ProjectCard = ({project}) => {
                         <li key={uuid()} className="project_stack_item">
                             {item}
                         </li>
+
                     ))
                 }
             </ul>
+            <div className='project_icons'>
+            <a href={project.live} target="_blank" rel="noreferrer"
+                aria-label="github">
+                <GitHubIcon />
+                </a>
+                
+                <a href={project.live} target="_blank" rel="noreferrer"
+                aria-label="github">
+                <LaunchIcon />
+                </a>
+            </div>
+            
         </div>
     )
 

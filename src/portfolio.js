@@ -15,21 +15,21 @@ const about = {
 
 const projects = [
     {
-        name: "p1",
+        name: "Project 1",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         stack: ["HTML", "CSS", "React", "Redux"],
         github: "github.com/johnyoun28",
         live: "github.com/johnyoun28"
     },
     {
-        name: "p2",
+        name: "Project 2",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         stack: ["HTML", "CSS", "React", "Redux"],
         github: "github.com/johnyoun28",
         live: "github.com/johnyoun28"
     },
     {
-        name: "p3",
+        name: "Project 3",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         stack: ["HTML", "CSS", "React", "Redux"],
         github: "github.com/johnyoun28",

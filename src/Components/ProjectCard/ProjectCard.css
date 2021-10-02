@@ -2,6 +2,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  margin-right: 15%;
 }
 
 .project_stack_item {
@@ -9,4 +10,38 @@
   font-weight: 500;
   font-size: 0.8rem;
   list-style-type: none;
+}
+
+.project_container {
+  border: 1px solid grey;
+  margin: 1%;
+  text-align: center;
+  padding: 32px;
+  text-align: center;
+  box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+
+.project_container:hover {
+  transform: translateY(-7px);
+}
+
+.project_description {
+  font-size: 20px;
+}
+
+.project_icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.project_icons a {
+  text-decoration: none;
+  color: black;
+  margin: 2%;
+}
+
+.project_stack_item {
+  padding: 0 0 0.3em 0;
 }

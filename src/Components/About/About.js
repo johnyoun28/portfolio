@@ -28,7 +28,7 @@ const About = () => {
                 </a>
 
                 <a href={about.socials.linkedin} target="_blank" rel="noreferrer"
-                aria-label="github">
+                aria-label="linkedin">
                 <LinkedInIcon />
                 </a>
 
