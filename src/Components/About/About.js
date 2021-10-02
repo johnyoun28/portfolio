@@ -19,7 +19,7 @@ const About = () => {
 
             <div className="about_contact">
                 <a href={about.socials.resume} text-decoration="none">
-                    <span className='btn btn--outline' type="button">Resume</span>
+                    <span className='btn btn--outline' type="button">resume</span>
                 </a>
 
                 <a href={about.socials.github} target="_blank" rel="noreferrer"

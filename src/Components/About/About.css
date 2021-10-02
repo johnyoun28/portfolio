@@ -25,7 +25,7 @@
 }
 
 .about_name {
-  color: lightseagreen;
+  color: STEELBLUE;
 }
 
 .about_contact a {
@@ -34,8 +34,9 @@
 }
 
 .btn {
-  border: 1px solid grey;
-  padding: 10%;
+  border: 2px solid STEELBLUE;
+  padding: 12%;
+  color: STEELBLUE;
 }
 
 .about_contact {
