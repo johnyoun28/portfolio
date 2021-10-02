@@ -37,16 +37,7 @@ const projects = [
     },
 ]
 
-const skills = [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "React",
-    "Redux",
-    "Nodejs",
-    "Express",
-    "Python",
-]
+const skills = [ "HTML", "CSS", "JavaScript", "React", "Redux", "Nodejs", "Express", "Python"]
 
 const contact = {
     email: "johnyoun28@gmail.com"
