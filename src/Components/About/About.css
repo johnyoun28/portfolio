@@ -9,11 +9,6 @@
   font-size: 35px;
 }
 
-/* .about {
-  flex-direction: column;
-  margin-top: 3em;
-} */
-
 .about_container {
   margin-top: 3em;
   display: flex;

@@ -1,0 +1,25 @@
+.contact_header {
+  margin-top: 5%;
+  font-size: 27px;
+}
+
+.contact_container {
+  margin: 5%;
+}
+
+.contact_container a {
+  text-decoration: none;
+  color: black;
+}
+
+.contact_btn {
+  border: 2px solid steelblue;
+  padding: 1%;
+  color: steelblue;
+  transition: ease-in 0.3s;
+}
+
+.contact_btn:hover {
+  box-shadow: inset 300px 0 0 0 steelblue;
+  color: white;
+}
