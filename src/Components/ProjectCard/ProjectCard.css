@@ -45,3 +45,8 @@
 .project_stack_item {
   padding: 0 0 0.3em 0;
 }
+
+.project_icon:hover {
+  color: steelblue;
+  text-decoration: underline;
+}

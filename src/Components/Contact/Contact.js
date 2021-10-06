@@ -4,7 +4,7 @@ import {contact} from '../../portfolio'
 
 const Contact = () => {
     return (
-    <section id='#contact'>
+    <section id='contact'>
             <div className="contact_container">
                 <h2 className="contact_header">CONTACT</h2>
                 <a href={contact.email} text-decoration="none">
