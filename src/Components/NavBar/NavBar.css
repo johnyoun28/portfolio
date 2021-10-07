@@ -21,3 +21,9 @@
 .nav_list_item a:hover {
   color: steelblue;
 }
+
+@media (max-width: 800px) {
+  .nav_list {
+    width: 90%;
+  }
+}

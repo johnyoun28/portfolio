@@ -50,3 +50,17 @@
   color: steelblue;
   text-decoration: underline;
 }
+
+@media (max-width: 800px) {
+  .project_description {
+    font-size: 20px;
+  }
+
+  .project_stack {
+    width: 90%;
+  }
+
+  .project_stack_item {
+    font-size: 15px;
+  }
+}

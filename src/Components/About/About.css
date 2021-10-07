@@ -47,3 +47,30 @@
   width: 25%;
   margin-top: 1%;
 }
+
+.about_contact a:hover {
+  color: steelblue;
+}
+
+@media (max-width: 800px) {
+  .btn {
+    margin-right: 25px;
+  }
+  .about_description {
+    margin: 0 auto;
+    text-align: center;
+  }
+  .about_container h1 {
+    font-size: 40px;
+  }
+  .about_container h2 {
+    font-size: 25px;
+  }
+
+  .about_contact {
+    display: flex;
+    justify-content: space-evenly;
+    width: 40%;
+    margin-top: 3%;
+  }
+}
