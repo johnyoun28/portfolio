@@ -5,9 +5,9 @@ const header = {
 const about = {
     name: "John Youn",
     role: "Software Engineer",
-    description: "Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.",
+    description: "I am a recent graduate from Lambda School, a coding bootcamp with a strong knowledge of Full Stack Web Development. Growing up, I have always been interested in tech and my dream was to have a career in the tech industry. I believe that I am fast learner and always ready to learn more!" ,
     socials: {
-        resume: "https://google.com",
+        resume: "https://docs.google.com/document/d/1eKs0LXm62QyqM2sxT15AAn9nFJQ9t_KCJ1u5nPKy2oA/edit",
         github: 'https://github.com/johnyoun28',  
         linkedin: "https://www.linkedin.com/in/john-youn/"
     }
@@ -37,7 +37,7 @@ const projects = [
     },
 ]
 
-const skills = [ "HTML", "CSS", "JavaScript", "React", "Redux", "Nodejs", "Express", "Python"]
+const skills = [ "HTML", "CSS", "JavaScript", "React", "Redux", "React Testing Library", "Cypress", "Node.js", "Express", "PostgresSQL", "Python", "Git", "GitHub"]
 
 const contact = {
     email: "johnyoun28@gmail.com"
