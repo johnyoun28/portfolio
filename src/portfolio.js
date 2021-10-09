@@ -15,17 +15,17 @@ const about = {
 
 const projects = [
     {
-        name: "Project 1",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        stack: ["HTML", "CSS", "React", "Redux"],
-        github: "github.com/johnyoun28",
-        live: "github.com/johnyoun28"
+        name: "Nasa Picture of the Day",
+        description: "An application that utilizes the NASA API to allow users to view NASAs picture of the day with a description.",
+        stack: ["HTML", "CSS", "JavaScript", "React"],
+        github: "https://github.com/johnyoun28/shopify-challenge",
+        live: "https://shopify-challenge-six.vercel.app/"
     },
     {
-        name: "Project 2",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        stack: ["HTML", "CSS", "React", "Redux"],
-        github: "github.com/johnyoun28",
+        name: "Weather App",
+        description: "Weather application that allows users to view a 5-Day Weather Forecast on their desired location. I've built this project while learning/practicing the basics of Redux!",
+        stack: ["HTML", "CSS", "JavaScript", "React", "Redux"],
+        github: "https://github.com/johnyoun28/weather-app",
         live: "github.com/johnyoun28"
     },
     {

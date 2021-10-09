@@ -20,7 +20,7 @@ const ProjectCard = ({project}) => {
                 }
             </ul>
             <div className='project_icons'>
-            <a href={project.live} target="_blank" rel="noreferrer"
+            <a href={project.github} target="_blank" rel="noreferrer"
                 aria-label="github" className="project_icon">
                 <GitHubIcon />
                 </a>

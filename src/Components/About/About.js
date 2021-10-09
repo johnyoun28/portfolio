@@ -18,7 +18,7 @@ const About = () => {
             </p>
 
             <div className="about_contact">
-                <a href={about.socials.resume} text-decoration="none">
+                <a href={about.socials.resume} target="_blank" rel="noreferrer" text-decoration="none">
                     <span className='btn' type="button">resume</span>
                 </a>
 
