@@ -15,24 +15,24 @@ const about = {
 
 const projects = [
     {
-        name: "Nasa Picture of the Day",
-        description: "An application that utilizes the NASA API to allow users to view NASAs picture of the day with a description.",
+        name: "Crypto Tracker",
+        description: "An application that displays the top 100 crypto  coins by market cap with live prices, volume, market cap, and the 24 hour price change percentage. This application also contains a search field if users want to filter coins by the coins keyword.",
         stack: ["HTML", "CSS", "JavaScript", "React"],
-        github: "https://github.com/johnyoun28/shopify-challenge",
-        live: "https://shopify-challenge-six.vercel.app/"
+        github: "https://github.com/johnyoun28/crypto-tracker",
+        live: "crypto-tracker-johnyoun28.vercel.app"
+    },
+    {
+        name: "Nasa Picture of the Day",
+        description: "An application that utilizes the NASA API to allow users to view NASAs picture of the day with a description. Also implemented a calander to allow users to choose a date in order to view the NASA photo corresponding to that certain date.",
+        stack: ["HTML", "CSS", "JavaScript", "React"],
+        github: "https://github.com/johnyoun28/NASA-Picture-of-the-Day",
+        live: "https://nasa-apod-six.vercel.app/"
     },
     {
         name: "Weather App",
-        description: "Weather application that allows users to view a 5-Day Weather Forecast on their desired location. I've built this project while learning/practicing the basics of Redux!",
+        description: "Weather application that allows users to view a 5-Day Weather Forecast of their desired location. I've built this project while learning/practicing the basics of Redux!",
         stack: ["HTML", "CSS", "JavaScript", "React", "Redux"],
         github: "https://github.com/johnyoun28/weather-app",
-        live: "github.com/johnyoun28"
-    },
-    {
-        name: "Project 3",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        stack: ["HTML", "CSS", "React", "Redux"],
-        github: "github.com/johnyoun28",
         live: "github.com/johnyoun28"
     },
 ]
