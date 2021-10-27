@@ -19,7 +19,7 @@ const projects = [
         description: "An application that displays the top 100 crypto  coins by market cap with live prices, volume, market cap, and the 24 hour price change percentage. This application also contains a search field if users want to filter coins by the coins keyword.",
         stack: ["HTML", "CSS", "JavaScript", "React"],
         github: "https://github.com/johnyoun28/crypto-tracker",
-        live: "crypto-tracker-johnyoun28.vercel.app"
+        live: "https://crypto-tracker-johnyoun28.vercel.app/"
     },
     {
         name: "Nasa Picture of the Day",
