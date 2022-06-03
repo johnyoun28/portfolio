@@ -29,12 +29,21 @@ const projects = [
         live: "https://nasa-apod-six.vercel.app/"
     },
     {
+        name: "E-Commerce UI",
+        description: "UI of an E-Commerce website to further my front end skills with Styled Components, Material-UI, and more.",
+        stack: ["HTML", "CSS", "JavaScript", "React", "Redux"],
+        github: "https://github.com/johnyoun28/weather-app",
+        live: "https://weathers-app.vercel.app/"
+    },
+
+    {
         name: "Weather App",
         description: "Weather application that allows users to view a 5-Day Weather Forecast of their desired location. I've built this project while learning/practicing the basics of Redux!",
         stack: ["HTML", "CSS", "JavaScript", "React", "Redux"],
         github: "https://github.com/johnyoun28/weather-app",
         live: "https://weathers-app.vercel.app/"
     },
+
 
     {
         name: "Secret Family Recipes",
