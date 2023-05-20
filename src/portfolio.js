@@ -16,10 +16,10 @@ const about = {
 const projects = [
     {
         name: "Crypto Tracker",
-        description: "An application that displays the top 100 crypto  coins by market cap with live prices, volume, market cap, and the 24 hour price change percentage. This application also contains a search field if users want to filter coins by the coins keyword.",
-        stack: ["HTML", "CSS", "JavaScript", "React"],
-        github: "https://github.com/johnyoun28/crypto-tracker",
-        live: "https://crypto-tracker-johnyoun28.vercel.app/"
+        description: "An application that displays the top 100 crypto coins by market cap with live prices, market cap, and the 24 hour price change percentage. Users may click on their desired coin on the carousel or coin list to see more details with a chart that displays the coin price change within the year. This application also contains a search field for users who want to filter coins by the coins keyword.",
+        stack: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS","TypeScript" ],
+        github: "https://github.com/johnyoun28/crypto-track",
+        live: "https://crypto-track-hhxu.vercel.app/"
     },
     {
         name: "Nasa Picture of the Day",
@@ -66,7 +66,7 @@ const projects = [
 
 ]
 
-const skills = [ "HTML", "CSS", "JavaScript", "React", "Redux", "React Testing Library", "Cypress", "Node.js", "Express", "PostgresSQL", "Python", "Git", "GitHub"]
+const skills = [ "HTML", "CSS", "JavaScript", "Tailwind CSS", "TypeScript", "React", "Redux", "React Testing Library", "Cypress", "Node.js", "Express", "PostgresSQL", "Python", "Git", "GitHub"]
 
 const contact = {
     email: "johnyoun28@gmail.com"
