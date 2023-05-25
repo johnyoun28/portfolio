@@ -21,6 +21,15 @@ const projects = [
         github: "https://github.com/johnyoun28/crypto-track",
         live: "https://crypto-track-hhxu.vercel.app/"
     },
+
+    {
+        name: "Entertainment Zone",
+        description: "An application that displays the current trending movies or tv series with a rating. Users may also filter by genre or use the search bar in order to find their desired movie or tv series.",
+        stack: ["HTML", "CSS", "JavaScript", "React", "Material UI"],
+        github: "https://github.com/johnyoun28/entertainmentzone",
+        live: "entertainmentzone.vercel.app"
+    },
+    
     {
         name: "Nasa Picture of the Day",
         description: "An application that utilizes the NASA API to allow users to view NASAs picture of the day with a description. Also implemented a calander to allow users to choose a date in order to view the NASA photo corresponding to that certain date.",
@@ -28,22 +37,6 @@ const projects = [
         github: "https://github.com/johnyoun28/NASA-Picture-of-the-Day",
         live: "https://nasa-apod-six.vercel.app/"
     },
-    {
-        name: "E-Commerce UI",
-        description: "UI of an E-Commerce website to further my front end skills with Styled Components, Material-UI, and more.",
-        stack: ["HTML", "CSS", "JavaScript", "React", "Redux"],
-        github: "https://github.com/johnyoun28/weather-app",
-        live: "https://weathers-app.vercel.app/"
-    },
-
-    {
-        name: "Weather App",
-        description: "Weather application that allows users to view a 5-Day Weather Forecast of their desired location. I've built this project while learning/practicing the basics of Redux!",
-        stack: ["HTML", "CSS", "JavaScript", "React", "Redux"],
-        github: "https://github.com/johnyoun28/weather-app",
-        live: "https://weathers-app.vercel.app/"
-    },
-
 
     {
         name: "Secret Family Recipes",
